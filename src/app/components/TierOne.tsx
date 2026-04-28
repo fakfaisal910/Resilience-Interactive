@@ -518,7 +518,7 @@ export function TierOne({ onNavigateNext }: TierOneProps) {
                 </strong>{" "}
                 Waves remain typically &lt;1m in the open ocean
               </li>
-              <li>
+              <li className="mx-[0px] mt-[0px] mb-[16px]">
                 <strong className="text-slate-900 font-semibold">
                   Long wavelength:
                 </strong>{" "}
@@ -526,6 +526,23 @@ export function TierOne({ onNavigateNext }: TierOneProps) {
                 crests
               </li>
             </ul>
+                          
+            <div
+                      style={{
+                        display: "flex",
+                        justifyContent: "center",
+                      }}
+                    >
+                      <img
+                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Urban%20Planning%20Methods.png?raw=true"
+                        style={{
+                          width: "1000px",
+                          height: "300px",
+                          objectFit: "contain",
+                          display: "block",
+                        }}
+                      />
+                </div>
           </div>
 
           <div className="bg-blue-50 border border-blue-200 rounded-lg p-6 my-6 relative">

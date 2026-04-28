@@ -714,6 +714,23 @@ export function TierTwo({ onNavigateToTier3 }: TierTwoProps) {
                 soil layers less susceptible to erosion and
                 liquefaction
               </div>
+                           
+              <div
+                      style={{
+                        display: "flex",
+                        justifyContent: "center",
+                      }}
+                    >
+                      <img
+                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Shallow%20Footings%20and%20Deep-piles.png?raw=true"
+                        style={{
+                          width: "1000px",
+                          height: "300px",
+                          objectFit: "contain",
+                          display: "block",
+                        }}
+                      />
+                </div>
             </div>
 
             <div className="grid md:grid-cols-2 gap-6"></div>
@@ -1141,12 +1158,29 @@ export function TierTwo({ onNavigateToTier3 }: TierTwoProps) {
                 offering first-line defence against moderate
                 inundation events.
               </div>
-              <div className="border-l-4 border-teal-400 pl-4 relative mx-[0px] mt-[0px] mb-[16px]">
+              <div className="border-l-4 border-teal-400 pl-4 relative mx-[0px] mt-[0px] mb-[-10px]">
                 <strong>Coastal Wetlands:</strong> Tidal
                 wetlands decrease surge through surface
                 roughness and vegetation drag, reducing flow
                 velocities as water moves inland.
               </div>
+                           
+              <div
+                      style={{
+                        display: "flex",
+                        justifyContent: "center",
+                      }}
+                    >
+                      <img
+                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Deep%20water%20behaviour.png?raw=true"
+                        style={{
+                          width: "900px",
+                          height: "450px",
+                          objectFit: "contain",
+                          display: "block",
+                        }}
+                      />
+                </div>
             </div>
 
             <div className="flex items-start gap-2 bg-amber-50 border border-amber-200 rounded-lg p-4 relative m-[0px]">

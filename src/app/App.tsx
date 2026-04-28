@@ -585,7 +585,23 @@ export default function App() {
                       </li>
                     </ul>
                   </div>
-
+              
+                  <div
+                      style={{
+                        display: "flex",
+                        justifyContent: "center",
+                      }}
+                    >
+                      <img
+                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Weak-BeamStrong-Column.png?raw=true"
+                        style={{
+                          width: "1000px",
+                          height: "300px",
+                          objectFit: "contain",
+                          display: "block",
+                        }}
+                      />
+                </div>
                   <p>
                     The formation of beam plastic hinges (rather
                     than column hinges) creates a desirable
