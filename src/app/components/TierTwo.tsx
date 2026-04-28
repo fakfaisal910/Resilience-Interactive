@@ -201,6 +201,22 @@ export function TierTwo({ onNavigateToTier3 }: TierTwoProps) {
                 outriggers (linking the core to perimeter
                 columns) and mega-bracing
               </div>
+                                  <div
+                      style={{
+                        display: "flex",
+                        justifyContent: "center",
+                      }}
+                    >
+                      <img
+                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Loops.png?raw=true"
+                        style={{
+                          width: "500px",
+                          height: "250px",
+                          objectFit: "contain",
+                          display: "block",
+                        }}
+                      />
+                    </div>
             </div>
           </div>
 

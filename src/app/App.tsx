@@ -388,7 +388,7 @@ export default function App() {
                       }}
                     >
                       <img
-                        src="src/imports/Hysterisis Loops.png"
+                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Loops.png?raw=true"
                         style={{
                           width: "500px",
                           height: "250px",

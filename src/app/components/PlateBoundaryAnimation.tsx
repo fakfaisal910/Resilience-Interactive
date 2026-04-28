@@ -71,7 +71,7 @@ export function PlateBoundaryAnimation() {
                               
       <div style={{ display: "flex", justifyContent: "center" }}>
           <img
-            src="src/imports/Subduction.png"
+            src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Subduction.png?raw=true"
             alt="Subduction Zone Graphic Diagram"
               style={{
               width: "420px",
@@ -87,7 +87,7 @@ export function PlateBoundaryAnimation() {
           {selectedType === 'transform' && (
                               <div style={{ display: "flex", justifyContent: "center" }}>
           <img
-            src="./public/Transform.png"
+            src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Transform.png?raw=true"
               style={{
               width: "420px",
               height: "320px",
@@ -101,7 +101,7 @@ export function PlateBoundaryAnimation() {
           {selectedType === 'collision' && (
                   <div style={{ display: "flex", justifyContent: "center" }}>
           <img
-            src="./public/Collision.png"
+            src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Collision.png?raw=true"
               style={{
               width: "420px",
               height: "320px",
