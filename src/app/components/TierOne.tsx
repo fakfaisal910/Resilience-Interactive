@@ -534,7 +534,7 @@ export function TierOne({ onNavigateNext }: TierOneProps) {
                       }}
                     >
                       <img
-                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Urban%20Planning%20Methods.png?raw=true"
+                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Deep%20Water%20Behaviour.png?raw=true"
                         style={{
                           width: "1000px",
                           height: "300px",

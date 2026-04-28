@@ -482,13 +482,30 @@ export default function App() {
                         controlled friction interfaces,
                         effective in low to mid-rise structures
                       </div>
-                      <div className="border-l-4 border-amber-400 pl-4 relative">
+                      <div className="border-l-4 border-amber-400 pl-4 relative mx-[0px] mt-[0px] mb-[16px]">
                         <strong>Tuned Mass Dampers:</strong>{" "}
                         Frequently used in high-rise structures
                         to reduce peak accelerations by engaging
                         mass inertia
                       </div>
                     </div>
+
+                     <div
+                      style={{
+                        display: "flex",
+                        justifyContent: "center",
+                      }}
+                    >
+                      <img
+                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/W-BS-C.png?raw=true"
+                        style={{
+                          width: "1000px",
+                          height: "300px",
+                          objectFit: "contain",
+                          display: "block",
+                        }}
+                      />
+                </div>
 
                     <p className="text-slate-700 text-justify mt-4">
                       Collectively, these mechanisms
@@ -593,7 +610,7 @@ export default function App() {
                       }}
                     >
                       <img
-                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Weak-BeamStrong-Column.png?raw=true"
+                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/W-BS-C.png?raw=true"
                         style={{
                           width: "1000px",
                           height: "300px",
@@ -921,6 +938,22 @@ export default function App() {
                       making it a critical consideration in
                       structural design (EEFIT, 2006).
                     </p>
+                     <div
+                      style={{
+                        display: "flex",
+                        justifyContent: "center",
+                      }}
+                    >
+                      <img
+                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Loops.png?raw=true"
+                        style={{
+                          width: "500px",
+                          height: "250px",
+                          objectFit: "contain",
+                          display: "block",
+                        }}
+                      />
+                    </div>
                   </div>
 
                   <h4 className="text-slate-900 mb-2">
@@ -1123,6 +1156,22 @@ export default function App() {
                           of critical infrastructure
                         </li>
                       </ul>
+                      <div
+                      style={{
+                        display: "flex",
+                        justifyContent: "center",
+                      }}
+                    >
+                      <img
+                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Loops.png?raw=true"
+                        style={{
+                          width: "500px",
+                          height: "250px",
+                          objectFit: "contain",
+                          display: "block",
+                        }}
+                      />
+                    </div>
                     </div>
                   </div>
 
@@ -1228,6 +1277,22 @@ export default function App() {
                         Severe damage without structural
                         collapse
                       </div>
+                    </div>
+                    <div
+                      style={{
+                        display: "flex",
+                        justifyContent: "center",
+                      }}
+                    >
+                      <img
+                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Loops.png?raw=true"
+                        style={{
+                          width: "500px",
+                          height: "250px",
+                          objectFit: "contain",
+                          display: "block",
+                        }}
+                      />
                     </div>
                     <p className="text-slate-700 text-justify mx-[0px] mt-[0px] mb-[12px]">
                       This approach allows engineers to design

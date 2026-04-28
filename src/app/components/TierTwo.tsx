@@ -208,7 +208,7 @@ export function TierTwo({ onNavigateToTier3 }: TierTwoProps) {
                       }}
                     >
                       <img
-                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Lateral%20Load%20Resisting%20System.png?raw=true"
+                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Bracing%20Systems.png?raw=true"
                         style={{
                           width: "1000px",
                           height: "300px",
@@ -722,7 +722,7 @@ export function TierTwo({ onNavigateToTier3 }: TierTwoProps) {
                       }}
                     >
                       <img
-                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Shallow%20Footings%20and%20Deep-piles.png?raw=true"
+                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Foundation.png?raw=true"
                         style={{
                           width: "1000px",
                           height: "300px",
@@ -1172,7 +1172,7 @@ export function TierTwo({ onNavigateToTier3 }: TierTwoProps) {
                       }}
                     >
                       <img
-                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Deep%20water%20behaviour.png?raw=true"
+                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Urban%20Planning.png?raw=true"
                         style={{
                           width: "900px",
                           height: "450px",
