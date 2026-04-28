@@ -200,23 +200,23 @@ export function TierTwo({ onNavigateToTier3 }: TierTwoProps) {
                 in tall buildings through systems such as
                 outriggers (linking the core to perimeter
                 columns) and mega-bracing
-              </div>
-                                  <div
+              </div>                 
+              <div
                       style={{
                         display: "flex",
                         justifyContent: "center",
                       }}
                     >
                       <img
-                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Loops.png?raw=true"
+                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Lateral%20Load%20Resisting%20System.png?raw=true"
                         style={{
-                          width: "500px",
-                          height: "250px",
+                          width: "1000px",
+                          height: "300px",
                           objectFit: "contain",
                           display: "block",
                         }}
                       />
-                    </div>
+                </div>
             </div>
           </div>
 
