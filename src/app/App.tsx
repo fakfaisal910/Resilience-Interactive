@@ -497,17 +497,17 @@ export default function App() {
                       }}
                     >
                       <img
-                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/W-BS-C.png?raw=true"
+                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Damping.png?raw=true"
                         style={{
-                          width: "1000px",
-                          height: "300px",
+                          width: "850px",
+                          height: "450px",
                           objectFit: "contain",
                           display: "block",
                         }}
                       />
                 </div>
 
-                    <p className="text-slate-700 text-justify mt-4">
+                    <p className="text-slate-700 text-justify m-[0px]">
                       Collectively, these mechanisms
                       significantly reduce seismic energy demand
                       throughout the superstructure, enabling
@@ -931,13 +931,7 @@ export default function App() {
                       </span>
                       , producing impulsive forces upon impact.
                     </p>
-                    <p className="mb-3">
-                      Post-event observations from major tsunami
-                      events have shown that debris impact can
-                      equal or exceed hydrodynamic forces,
-                      making it a critical consideration in
-                      structural design (EEFIT, 2006).
-                    </p>
+
                      <div
                       style={{
                         display: "flex",
@@ -945,15 +939,23 @@ export default function App() {
                       }}
                     >
                       <img
-                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Loops.png?raw=true"
+                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Impulsive%20Impact.png?raw=true"
                         style={{
-                          width: "500px",
-                          height: "250px",
+                          width: "750px",
+                          height: "400px",
                           objectFit: "contain",
                           display: "block",
                         }}
                       />
                     </div>
+                                        
+                    <p className="mb-3">
+                      Post-event observations from major tsunami
+                      events have shown that debris impact can
+                      equal or exceed hydrodynamic forces,
+                      making it a critical consideration in
+                      structural design (EEFIT, 2006).
+                    </p>
                   </div>
 
                   <h4 className="text-slate-900 mb-2">
@@ -1148,7 +1150,7 @@ export default function App() {
                           </span>{" "}
                           of emergency response systems
                         </li>
-                        <li>
+                        <li className="m-[0px]">
                           •{" "}
                           <span className="font-semibold">
                             Protection
@@ -1163,10 +1165,10 @@ export default function App() {
                       }}
                     >
                       <img
-                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Loops.png?raw=true"
+                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Emergency%20Responces.png?raw=true"
                         style={{
-                          width: "500px",
-                          height: "250px",
+                          width: "750px",
+                          height: "350px",
                           objectFit: "contain",
                           display: "block",
                         }}
@@ -1272,7 +1274,7 @@ export default function App() {
                         <strong>Life Safety:</strong> Controlled
                         damage with safe evacuation
                       </div>
-                      <div className="border-l-4 border-red-400 pl-4 relative mx-[0px] mt-[0px] mb-[12px]">
+                      <div className="border-l-4 border-red-400 pl-4 relative m-[0px]">
                         <strong>Collapse Prevention:</strong>{" "}
                         Severe damage without structural
                         collapse
@@ -1285,16 +1287,16 @@ export default function App() {
                       }}
                     >
                       <img
-                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/Loops.png?raw=true"
+                        src="https://github.com/fakfaisal910/Resilience-Interactive/blob/main/public/PBSD.png?raw=true"
                         style={{
-                          width: "500px",
-                          height: "250px",
+                          width: "700px",
+                          height: "400px",
                           objectFit: "contain",
                           display: "block",
                         }}
                       />
                     </div>
-                    <p className="text-slate-700 text-justify mx-[0px] mt-[0px] mb-[12px]">
+                    <p className="text-slate-700 text-justify mx-[0px] my-[-16px]">
                       This approach allows engineers to design
                       structures based on expected performance,
                       rather than relying solely on prescriptive
